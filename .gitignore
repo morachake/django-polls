@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Django stuff
+*.sqlite3
+db.sqlite3
+
+# Local settings
+.env
+*.local_settings.py
+
+# Static and media files
+/static/
+/media/
+
+# Node modules (if you use npm/yarn)
+node_modules/
+
+# Logs and runtime files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.coverage
+.coverage.*
+*.pyd
+*.swp
+*.swo
+*.swn
+*.swn
+*.pid
+
+# Cache and temporary files
+*.cache
+*.bak
+*.old
+*.orig
+*.rej
+*.sublime-project
+*.sublime-workspace
+*.tmp
+.cache/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Testing
+.coverage
+pytest_cache/
+.tox/
+nosetests.xml
+test.db
