@@ -12,7 +12,6 @@ env/
 db.sqlite3
 
 # Local settings
-.env
 *.local_settings.py
 
 # Static and media files
@@ -48,7 +47,6 @@ node_modules/
 .cache/
 
 # IDE-specific files
-.vscode/
 .idea/
 
 # OS-generated files
@@ -62,3 +60,4 @@ pytest_cache/
 .tox/
 nosetests.xml
 test.db
+config.bat
